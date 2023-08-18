@@ -1,0 +1,1 @@
+<p>welcome <?php $name ?></p>
